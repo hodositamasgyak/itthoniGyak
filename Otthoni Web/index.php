@@ -1,5 +1,3 @@
 <?php require "headerLayout.php"?>
-<body>
-    
-</body>
-</html>
+
+<?php require "footerLayout.php"?>
